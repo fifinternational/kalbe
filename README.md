@@ -115,8 +115,6 @@ Menggabungkan 4 worksheet
 
 ![Screenshot 2023-09-27 153613](https://github.com/fifinternational/kalbe/assets/99740757/0b6251a2-26db-4537-a1a4-a7bdcc792cd6)
 
-![Screenshot 2023-09-27 153626](https://github.com/fifinternational/kalbe/assets/99740757/aec22264-9535-4f6b-a5b0-f4f0f748184d)
-
 ![Screenshot 2023-09-27 153633](https://github.com/fifinternational/kalbe/assets/99740757/07f1d3cf-da9b-44c4-80be-86b0fb87e2b0)
 
 ![Screenshot 2023-09-27 153642](https://github.com/fifinternational/kalbe/assets/99740757/ffe73ace-4274-45cf-a122-6cd4e4ff60dc)
