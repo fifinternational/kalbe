@@ -30,9 +30,7 @@ promotion dan sales treatment.
 ■ Tableau
 ■ Dbeaver
 ■ PostgreSQL
-SELECT "Marital Status", AVG("Age"::numeric) AS average_age
-FROM "Customer1" 
-GROUP BY "Marital Status";
+
 ## Melakukan Data Ingestion Ke Dbeavor
 1. Menghubugkan postgreSQL dengan dbeavor
    
