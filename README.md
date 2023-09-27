@@ -7,6 +7,7 @@ dan tim marketing.
 ○ Dari tim inventory, kamu diminta untuk dapat membantu
 memprediksi jumlah penjualan (quantity) dari total
 keseluruhan product Kalbe
+
 ■ Tujuan dari project ini adalah untuk mengetahui
 perkiraan quantity product yang terjual sehingga tim
 inventory dapat membuat stock persediaan harian
